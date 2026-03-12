@@ -1,1 +1,1 @@
-# edtech-hackathon-2026
+# uai-hackathon-2026
